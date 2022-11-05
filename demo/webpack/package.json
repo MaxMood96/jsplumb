@@ -11,7 +11,7 @@
   "devDependencies": {
     "grunt-webpack": "^1.0.11",
     "jsplumb": "file:../../jsplumb.tgz",
-    "webpack": "^1.13.1",
+    "webpack": "^5.0.0",
     "webpack-dev-server": "^1.14.1"
   }
 }
